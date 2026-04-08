@@ -14,13 +14,8 @@ This repository serves as a minimal entry point. The actual work lives in deploy
 
 ## Presence
 
-[Website](https://80xstudio.com) 
-
-[Portfolio](https://abiyyurahman.vercel.app)
-
-[Instagram](https://instagram.com/lucasmevoyez)
-
-[LinkedIn](https://www.linkedin.com/in/muhammadabiyyurahman)
-
-Email  
-abiyyu@80xstudio.com 
+80xstudio: https://80xstudio.com  
+Portfolio: https://abiyyurahman.vercel.app  
+LinkedIn: https://www.linkedin.com/in/muhammadabiyyurahman  
+Instagram: https://instagram.com/lucasmevoyez  
+Email: abiyyu@80xstudio.com  
