@@ -28,11 +28,3 @@ https://www.linkedin.com/in/muhammadabiyyurahman
 
 Email  
 byyrhmn@gmail.com  
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuaiyuuu&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=iuaiyuuu&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iuaiyuuu&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
