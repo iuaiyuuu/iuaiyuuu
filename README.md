@@ -1,17 +1,22 @@
-# About Me
+Muhammad Abiyyu Rahman
 
-I build systems, not just models.
+AI Engineer · Full Stack Developer · System Architect
 
-My work sits at the intersection of machine learning, software engineering, and real-world deployment. I focus on turning data into usable systems, from predictive models to fully integrated applications that can actually be operated, monitored, and iterated.
+I care more about how a system behaves in production than how it looks on paper.
 
-I have experience developing end-to-end solutions, including machine learning pipelines, backend systems, and user-facing interfaces. My projects range from sales monitoring platforms and ERP systems to AI-driven prediction systems with interpretability layers such as SHAP and LLM-based reasoning.
+My work sits at the intersection of machine learning, software engineering, and deployment — treated as a single system, not separate parts. I focus on turning data into usable applications: systems that can be run, monitored, and improved over time.
 
-Through 80xstudio, I explore how aesthetics and system design can coexist, creating products that are not only functional, but also intentional in experience and structure.
+I build end-to-end solutions across the stack, from data pipelines and ML models to backend services and web interfaces. My work includes sales monitoring platforms, internal tools, and full-scale ERP systems built independently from architecture to production.
 
-I am particularly interested in interpretable machine learning, system integration, and building reliable AI systems that can move beyond experimentation into practical use.
+I use machine learning as a component of larger systems, integrating prediction pipelines with interpretability layers such as SHAP and LLM-based reasoning, and exposing them through user-facing applications that support real decisions.
 
-This repository serves as a minimal entry point. The actual work lives in deployed systems and ongoing projects.
+Through 80x Studio
+, I explore the relationship between system design and user experience — building products that are structured, usable, and intentional.
 
+I am particularly interested in system integration, interpretable machine learning, and building reliable AI systems that operate beyond experimentation.
+
+This repository is a minimal entry point.
+Most of the actual work exists in deployed systems and ongoing development.
 ## Presence
 
 | Name       | Link                                      |
