@@ -1,6 +1,5 @@
-Muhammad Abiyyu Rahman
-
-AI Engineer · Full Stack Developer · System Architect
+# Muhammad Abiyyu Rahman  
+**AI Engineer · Full Stack Developer · System Architect**
 
 I care more about how a system behaves in production than how it looks on paper.
 
@@ -10,13 +9,15 @@ I build end-to-end solutions across the stack, from data pipelines and ML models
 
 I use machine learning as a component of larger systems, integrating prediction pipelines with interpretability layers such as SHAP and LLM-based reasoning, and exposing them through user-facing applications that support real decisions.
 
-Through 80x Studio
-, I explore the relationship between system design and user experience — building products that are structured, usable, and intentional.
+Through **[80x Studio](https://80xstudio.com)**, I explore the relationship between system design and user experience — building products that are structured, usable, and intentional.
 
 I am particularly interested in system integration, interpretable machine learning, and building reliable AI systems that operate beyond experimentation.
 
-This repository is a minimal entry point.
+---
+
+This repository is a minimal entry point.  
 Most of the actual work exists in deployed systems and ongoing development.
+
 ## Presence
 
 | Name       | Link                                      |
